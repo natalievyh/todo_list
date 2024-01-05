@@ -1,1 +1,1 @@
-To-do list app to keep track of tasks made with React Native
+To-do list to keep track of tasks made with React Native
